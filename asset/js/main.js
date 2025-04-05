@@ -50,6 +50,7 @@ document.getElementById('formNama').addEventListener('keydown', function(event) 
     if(attempt === 3){
         alert("HMMMMM")
         alert("MASAAA GITUU AJAA GAA TAUU SII")
+        attempt++
     }
 
     if(attempt === 5){
